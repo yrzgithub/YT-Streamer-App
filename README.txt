@@ -3,9 +3,9 @@
 
 A simple python app with streams audio from YouTube servers.
 
-Requirements : Python
+Requirements : Python, Internet
 
-To use these script:
+To use these scripts:
 
 Step 1 : Download and Extract the code.
 Step 2 : Run the setup.py file and wait for success message.
